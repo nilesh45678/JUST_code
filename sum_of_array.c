@@ -6,8 +6,7 @@
 int sumofArray(int array[], int len)
 {
     int sum_valu = 0;
-    int Average;
-
+    
     for (int i = 0; i < len; i++)
     {
         sum_valu += array[i];   
